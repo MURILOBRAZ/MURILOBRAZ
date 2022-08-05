@@ -1,7 +1,7 @@
 ### Oi! MuriloBraz aqui!!👋 
 
-- 📌 3/10 Engenharia da Computação
-- 🌱 Estudando Python...
+- 📌 4/10 Engenharia da Computação
+- 🌱 Estudando React Native...
 - 👀 Sempre buscando aprender mais
 - :outbox_tray: 2022 Goals: Criar um Novo Grande Projeto...
 
