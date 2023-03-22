@@ -1,4 +1,4 @@
-### Oi! MuriloBraz aqui!!👋 
+### Oi! Murilo Braz aqui!!👋 
 
 - 📌 5/10 Engenharia da Computação
 - 🌱 Estudando React Native...
