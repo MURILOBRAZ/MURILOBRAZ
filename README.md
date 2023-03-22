@@ -1,9 +1,9 @@
 ### Oi! MuriloBraz aqui!!👋 
 
-- 📌 4/10 Engenharia da Computação
+- 📌 5/10 Engenharia da Computação
 - 🌱 Estudando React Native...
 - 👀 Sempre buscando aprender mais
-- :outbox_tray: 2022 Goals: Criar um Novo Grande Projeto...
+- :outbox_tray: 2023 Goals: Criar um Novo Grande Projeto...
 
   <div> 
   <a href="https://instagram.com/murilo_br4z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
