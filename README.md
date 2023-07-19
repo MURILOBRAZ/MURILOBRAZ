@@ -1,6 +1,6 @@
 ### Oi! Murilo Braz aqui!!👋 
 
-- 📌 5/10 Engenharia da Computação
+- 📌 6/10 Engenharia da Computação
 - 🌱 Estudando React Native...
 - 👀 Sempre buscando aprender mais
 - :outbox_tray: 2023 Goals: Criar um Novo Grande Projeto...
