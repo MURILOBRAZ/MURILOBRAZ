@@ -1,9 +1,8 @@
 ### Oi! Murilo Braz aqui!!👋 
 
-- 📌 6/10 Engenharia da Computação
+- 📌 7/10 Engenharia da Computação
 - 🌱 Estudando Python...
-- 👀 Sempre buscando aprender mais
-- :outbox_tray: Meta Pessoal: Criar uma Assistente Virtual...
+- 👀 Me Especializando em IA
 
 <div> 
 <a href="https://instagram.com/murilo_br4z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
