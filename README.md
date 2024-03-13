@@ -9,7 +9,7 @@
 <a href = "mailto:murilobraz44@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href = "https://www.linkedin.com/in/murilo-braz-9a8635174/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilobraz&show_icons=true&locale=en&layout=compact&theme=dark" alt="murilobraz" /></p>   
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilobraz&show_icons=true&locale=en&layout=compact&theme=dark" alt="murilobraz"/></p>   
   <div style="display: inline_block"><br>
   <a href = "https://github.com/MURILOBRAZ"><img align="center" alt="Murilo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <a href = "https://github.com/MURILOBRAZ"><img align="center" alt="Murilo-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
