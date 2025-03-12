@@ -1,6 +1,6 @@
 ### Oi! Murilo Braz aqui!!👋 
 
-- 📌 8/10 Engenharia da Computação
+- 📌 9/10 Engenharia da Computação
 - 🌱 Estudando Kotlin...
 
 <div> 
