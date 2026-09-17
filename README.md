@@ -33,8 +33,3 @@ Engenheiro da Computação e Desenvolvedor de Software. Construo aplicações de
 </p>
 
 <p><img src="https://readme-stats-murilobraz.vercel.app/api/top-langs?username=MURILOBRAZ&layout=compact&theme=dark&hide=html,css,rich%20text%20format,cmake&exclude_repo=AulaFlutter,DeckDoBurger&langs_count=6" alt="Linguagens mais usadas"/></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MURILOBRAZ/MURILOBRAZ/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/MURILOBRAZ/MURILOBRAZ/output/github-contribution-grid-snake.svg" alt="Cobrinha comendo o gráfico de contribuições">
-</picture>
