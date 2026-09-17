@@ -4,7 +4,7 @@ Engenheiro da Computação e Desenvolvedor de Software. Construo aplicações de
 
 - 🐍 **Back-end** com Python, Django e Django REST Framework
 - 📱 **Mobile** com Kotlin (Android) e Flutter
-- 🖥️ **Desktop** com C# e Windows Forms
+- 🟣 **.NET** com C#, ASP.NET, Blazor e DevExpress
 - 🤖 Explorando **Inteligência Artificial** com Python
 
 <p>
@@ -24,6 +24,8 @@ Engenheiro da Computação e Desenvolvedor de Software. Construo aplicações de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" title="Dart" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET" title="ASP.NET" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="Blazor" title="Blazor" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="40" width="40"/>
