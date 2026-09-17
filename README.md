@@ -2,10 +2,10 @@
 
 Engenheiro da Computação e Desenvolvedor de Software. Construo aplicações de ponta a ponta: do back-end e APIs REST a apps mobile e interfaces web.
 
-- 🐍 **Back-end** com Python, Django e Django REST Framework
+- ⚙️ **Back-end** e APIs REST
 - 📱 **Mobile** com Kotlin (Android) e Flutter
 - 🟣 **.NET** com C#, ASP.NET, Blazor e DevExpress
-- 🤖 Explorando **Inteligência Artificial** com Python
+- 🤖 Explorando **Inteligência Artificial**
 
 <p>
   <a href="https://www.linkedin.com/in/murilobraz013/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
