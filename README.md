@@ -32,3 +32,4 @@ Engenheiro da Computação e desenvolvedor de Santos-SP. Construo software de po
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" height="40" width="40"/>
 </p>
 
+<p><img src="https://readme-stats-murilobraz.vercel.app/api/top-langs?username=MURILOBRAZ&layout=compact&theme=dark&hide=html,css,rich%20text%20format,cmake&exclude_repo=AulaFlutter,DeckDoBurger&langs_count=6" alt="Linguagens mais usadas"/></p>
