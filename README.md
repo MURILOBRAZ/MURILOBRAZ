@@ -1,6 +1,6 @@
 # Oi! Murilo Braz aqui 👋
 
-Engenheiro da Computação e desenvolvedor de Santos-SP. Construo software de ponta a ponta: do back-end e APIs REST a apps mobile e interfaces web.
+Engenheiro da Computação e Desenvolvedor de Software. Construo aplicações de ponta a ponta: do back-end e APIs REST a apps mobile e interfaces web.
 
 - 🐍 **Back-end** com Python, Django e Django REST Framework
 - 📱 **Mobile** com Kotlin (Android) e Flutter
