@@ -34,4 +34,4 @@ Engenheiro da Computação e Desenvolvedor de Software. Construo aplicações de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" height="40" width="40"/>
 </p>
 
-<p align="center"><img src="./assets/github-stats.svg?v=ba3f9bbc56" alt="GitHub Stats de MURILOBRAZ" width="760"/></p>
+<p align="center"><img src="./assets/github-stats.svg?v=860514f68c" alt="GitHub Stats de MURILOBRAZ" width="760"/></p>
