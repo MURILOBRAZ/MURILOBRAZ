@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="306" viewBox="0 0 760 306" role="img" aria-label="Estatísticas do GitHub de MURILOBRAZ">
+  <style>
+    text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .title { fill: #ffffff; font-size: 16px; font-weight: 700; }
+    .tag   { fill: #c9d1d9; font-size: 12px; letter-spacing: 0.5px; }
+    .num   { fill: #ffffff; font-size: 28px; font-weight: 700; }
+    .label { fill: #c9d1d9; font-size: 13px; }
+    .foot  { fill: #c9d1d9; font-size: 12px; }
+    .link  { fill: #e07b53; font-size: 12px; }
+  </style>
+  <rect width="760" height="306" rx="8" fill="#212a26"/>
+  <rect x="30" y="28" width="8" height="8" fill="#e07b53"/>
+  <text x="48" y="37" class="title">MURILOBRAZ / GitHub Stats</text>
+  <text x="730" y="37" class="tag" text-anchor="end">ATIVIDADE PÚBLICA</text>
+  <line x1="30" y1="64" x2="730" y2="64" stroke="#3a4540"/>
+  <text x="30" y="112" class="num">41</text>
+  <text x="30" y="142" class="label">Repositórios públicos</text>
+  <text x="263.33333333333337" y="112" class="num">1</text>
+  <text x="263.33333333333337" y="142" class="label">Estrelas recebidas</text>
+  <text x="496.6666666666667" y="112" class="num">9</text>
+  <text x="496.6666666666667" y="142" class="label">Forks dos meus projetos</text>
+  <text x="30" y="204" class="num">1</text>
+  <text x="30" y="234" class="label">Pull requests públicos</text>
+  <text x="263.33333333333337" y="204" class="num">0</text>
+  <text x="263.33333333333337" y="234" class="label">Issues públicas</text>
+  <text x="496.6666666666667" y="204" class="num">20</text>
+  <text x="496.6666666666667" y="234" class="label">Seguidores</text>
+  <line x1="30" y1="252" x2="730" y2="252" stroke="#3a4540"/>
+  <text x="30" y="282" class="foot">Atualizado em 11/11/2026 · GitHub Actions</text>
+  <text x="730" y="282" class="link" text-anchor="end">github.com/MURILOBRAZ</text>
+</svg>

@@ -35,3 +35,9 @@ Engenheiro da Computação e Desenvolvedor de Software. Construo aplicações de
 </p>
 
 <p><img src="https://readme-stats-murilobraz.vercel.app/api/top-langs?username=MURILOBRAZ&layout=compact&theme=dark&hide=html,css,rich%20text%20format,cmake&exclude_repo=AulaFlutter,DeckDoBurger&langs_count=6" alt="Linguagens mais usadas"/></p>
+
+## 📊 GitHub Stats
+
+<p><img src="./assets/github-stats.svg" alt="GitHub Stats de MURILOBRAZ" width="760"/></p>
+
+<sub>Dados públicos, atualizados diariamente pelo GitHub Actions. A data da última atualização aparece no painel.</sub>
