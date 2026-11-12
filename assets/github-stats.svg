@@ -1,31 +1,99 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="306" viewBox="0 0 760 306" role="img" aria-label="Estatísticas do GitHub de MURILOBRAZ">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="346" viewBox="0 0 800 346" role="img" aria-label="Estatísticas do GitHub de MuriloBraz">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1a1033"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.9" cy="0" r="0.6">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
   <style>
     text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
-    .title { fill: #ffffff; font-size: 16px; font-weight: 700; }
-    .tag   { fill: #c9d1d9; font-size: 12px; letter-spacing: 0.5px; }
-    .num   { fill: #ffffff; font-size: 28px; font-weight: 700; }
-    .label { fill: #c9d1d9; font-size: 13px; }
-    .foot  { fill: #c9d1d9; font-size: 12px; }
-    .link  { fill: #e07b53; font-size: 12px; }
+    .name  { fill: #f8fafc; font-size: 20px; font-weight: 700; }
+    .sub   { fill: #94a3b8; font-size: 13px; }
+    .pill  { fill: #cbd5e1; font-size: 11px; font-weight: 600; letter-spacing: 1px; }
+    .num   { fill: #f8fafc; font-size: 28px; font-weight: 800; }
+    .label { fill: #94a3b8; font-size: 13px; }
+    .foot  { fill: #64748b; font-size: 12px; }
+    .link  { fill: url(#edge); font-size: 12px; font-weight: 600; }
+    .tile  { opacity: 0; animation: rise .6s ease-out forwards; }
+    .dot   { animation: pulse 2s ease-in-out infinite; }
+    @keyframes rise  { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; } }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
   </style>
-  <rect width="760" height="306" rx="8" fill="#212a26"/>
-  <rect x="30" y="28" width="8" height="8" fill="#e07b53"/>
-  <text x="48" y="37" class="title">MURILOBRAZ / GitHub Stats</text>
-  <text x="730" y="37" class="tag" text-anchor="end">ATIVIDADE PÚBLICA</text>
-  <line x1="30" y1="64" x2="730" y2="64" stroke="#3a4540"/>
-  <text x="30" y="112" class="num">41</text>
-  <text x="30" y="142" class="label">Repositórios públicos</text>
-  <text x="263.33333333333337" y="112" class="num">1</text>
-  <text x="263.33333333333337" y="142" class="label">Estrelas recebidas</text>
-  <text x="496.6666666666667" y="112" class="num">9</text>
-  <text x="496.6666666666667" y="142" class="label">Forks dos meus projetos</text>
-  <text x="30" y="204" class="num">1</text>
-  <text x="30" y="234" class="label">Pull requests públicos</text>
-  <text x="263.33333333333337" y="204" class="num">0</text>
-  <text x="263.33333333333337" y="234" class="label">Issues públicas</text>
-  <text x="496.6666666666667" y="204" class="num">20</text>
-  <text x="496.6666666666667" y="234" class="label">Seguidores</text>
-  <line x1="30" y1="252" x2="730" y2="252" stroke="#3a4540"/>
-  <text x="30" y="282" class="foot">Atualizado em 11/11/2026 · GitHub Actions</text>
-  <text x="730" y="282" class="link" text-anchor="end">github.com/MURILOBRAZ</text>
+
+  <rect x="1" y="1" width="798" height="344" rx="16" fill="url(#bg)"/>
+  <rect x="1" y="1" width="798" height="344" rx="16" fill="url(#glow)"/>
+  <rect x="1" y="1" width="798" height="344" rx="16" fill="none" stroke="url(#edge)" stroke-opacity="0.55" stroke-width="1.5"/>
+  <rect x="28" y="0" width="120" height="3" rx="1.5" fill="url(#edge)"/>
+
+  <text x="28" y="46" class="name">MuriloBraz</text>
+  <text x="28" y="70" class="sub">@MURILOBRAZ · GitHub Stats</text>
+
+  <g transform="translate(614 30)">
+    <rect width="158" height="26" rx="13" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+    <circle class="dot" cx="16" cy="13" r="4" fill="#34d399"/>
+    <text x="28" y="17" class="pill">ATIVIDADE PÚBLICA</text>
+  </g>
+
+  <g class="tile" style="animation-delay:150ms" transform="translate(28.0 96)">
+    <rect width="238.7" height="92" rx="12" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.08"/>
+    <rect x="0" y="18" width="3" height="56" rx="1.5" fill="#38bdf8"/>
+    <circle cx="36" cy="34" r="17" fill="#38bdf8" fill-opacity="0.14"/>
+    <g transform="translate(36 34)" fill="none" stroke="#38bdf8" stroke-width="1.6" stroke-linecap="round" color="#38bdf8"><rect x="-6" y="-7.5" width="12" height="15" rx="1.5"/><path d="M-3 -7.5v15M0 -3h3.5M0 0.5h3.5"/></g>
+    <text x="64" y="44" class="num">41</text>
+    <text x="20" y="76" class="label">Repositórios públicos</text>
+  </g>
+  <g class="tile" style="animation-delay:240ms" transform="translate(280.7 96)">
+    <rect width="238.7" height="92" rx="12" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.08"/>
+    <rect x="0" y="18" width="3" height="56" rx="1.5" fill="#fbbf24"/>
+    <circle cx="36" cy="34" r="17" fill="#fbbf24" fill-opacity="0.14"/>
+    <g transform="translate(36 34)" fill="none" stroke="#fbbf24" stroke-width="1.6" stroke-linecap="round" color="#fbbf24"><polygon points="0.00,-7.50 1.88,-2.59 7.13,-2.32 3.04,0.99 4.41,6.07 0.00,3.20 -4.41,6.07 -3.04,0.99 -7.13,-2.32 -1.88,-2.59" stroke-linejoin="round"/></g>
+    <text x="64" y="44" class="num">1</text>
+    <text x="20" y="76" class="label">Estrelas recebidas</text>
+  </g>
+  <g class="tile" style="animation-delay:330ms" transform="translate(533.3 96)">
+    <rect width="238.7" height="92" rx="12" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.08"/>
+    <rect x="0" y="18" width="3" height="56" rx="1.5" fill="#a78bfa"/>
+    <circle cx="36" cy="34" r="17" fill="#a78bfa" fill-opacity="0.14"/>
+    <g transform="translate(36 34)" fill="none" stroke="#a78bfa" stroke-width="1.6" stroke-linecap="round" color="#a78bfa"><circle cx="-4.5" cy="-5.5" r="2"/><circle cx="4.5" cy="-5.5" r="2"/><circle cx="0" cy="6" r="2"/><path d="M-4.5 -3.5v1.5a2 2 0 0 0 2 2h5a2 2 0 0 0 2-2v-1.5M0 0v4"/></g>
+    <text x="64" y="44" class="num">9</text>
+    <text x="20" y="76" class="label">Forks dos meus projetos</text>
+  </g>
+  <g class="tile" style="animation-delay:420ms" transform="translate(28.0 202)">
+    <rect width="238.7" height="92" rx="12" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.08"/>
+    <rect x="0" y="18" width="3" height="56" rx="1.5" fill="#34d399"/>
+    <circle cx="36" cy="34" r="17" fill="#34d399" fill-opacity="0.14"/>
+    <g transform="translate(36 34)" fill="none" stroke="#34d399" stroke-width="1.6" stroke-linecap="round" color="#34d399"><circle cx="-4.5" cy="-5.5" r="2"/><circle cx="-4.5" cy="5.5" r="2"/><circle cx="4.5" cy="5.5" r="2"/><path d="M-4.5 -3.5v7M4.5 3.5v-6a2 2 0 0 0-2-2h-3M0 -7.5l-2 2 2 2"/></g>
+    <text x="64" y="44" class="num">1</text>
+    <text x="20" y="76" class="label">Pull requests públicos</text>
+  </g>
+  <g class="tile" style="animation-delay:510ms" transform="translate(280.7 202)">
+    <rect width="238.7" height="92" rx="12" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.08"/>
+    <rect x="0" y="18" width="3" height="56" rx="1.5" fill="#fb7185"/>
+    <circle cx="36" cy="34" r="17" fill="#fb7185" fill-opacity="0.14"/>
+    <g transform="translate(36 34)" fill="none" stroke="#fb7185" stroke-width="1.6" stroke-linecap="round" color="#fb7185"><circle cx="0" cy="0" r="7"/><circle cx="0" cy="0" r="1.6" fill="currentColor"/></g>
+    <text x="64" y="44" class="num">0</text>
+    <text x="20" y="76" class="label">Issues públicas</text>
+  </g>
+  <g class="tile" style="animation-delay:600ms" transform="translate(533.3 202)">
+    <rect width="238.7" height="92" rx="12" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.08"/>
+    <rect x="0" y="18" width="3" height="56" rx="1.5" fill="#f472b6"/>
+    <circle cx="36" cy="34" r="17" fill="#f472b6" fill-opacity="0.14"/>
+    <g transform="translate(36 34)" fill="none" stroke="#f472b6" stroke-width="1.6" stroke-linecap="round" color="#f472b6"><circle cx="0" cy="-3" r="3.2"/><path d="M-6.5 7a6.5 6.5 0 0 1 13 0"/></g>
+    <text x="64" y="44" class="num">20</text>
+    <text x="20" y="76" class="label">Seguidores</text>
+  </g>
+
+  <line x1="28" y1="304" x2="772" y2="304" stroke="#ffffff" stroke-opacity="0.08"/>
+  <text x="28" y="328" class="foot">Atualizado em 11/11/2026 · via GitHub Actions</text>
+  <text x="772" y="328" class="link" text-anchor="end">github.com/MURILOBRAZ →</text>
 </svg>
