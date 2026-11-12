@@ -1,6 +1,7 @@
 // Gera assets/github-stats.svg com estatísticas públicas do perfil.
 // Uso: GH_TOKEN=... GH_USER=MURILOBRAZ node scripts/github-stats.mjs
-import { mkdirSync, writeFileSync } from "node:fs";
+import { createHash } from "node:crypto";
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
 const USER = process.env.GH_USER;
 const TOKEN = process.env.GH_TOKEN;
@@ -148,4 +149,10 @@ ${tiles}
 
 mkdirSync("assets", { recursive: true });
 writeFileSync("assets/github-stats.svg", svg);
+
+// Muda o link da imagem no README (?v=hash) para furar o cache do GitHub/navegador.
+const version = createHash("sha1").update(svg).digest("hex").slice(0, 10);
+const readme = readFileSync("README.md", "utf8");
+const bumped = readme.replace(/(assets\/github-stats\.svg)(\?v=[\w-]+)?/g, `$1?v=${version}`);
+if (bumped !== readme) writeFileSync("README.md", bumped);
 console.log("assets/github-stats.svg gerado:", Object.fromEntries(stats.map((s) => [s.label, s.value])));

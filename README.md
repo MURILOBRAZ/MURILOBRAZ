@@ -38,6 +38,6 @@ Engenheiro da Computação e Desenvolvedor de Software. Construo aplicações de
 
 ## 📊 GitHub Stats
 
-<p><img src="./assets/github-stats.svg" alt="GitHub Stats de MURILOBRAZ" width="760"/></p>
+<p><img src="./assets/github-stats.svg?v=ba3f9bbc56" alt="GitHub Stats de MURILOBRAZ" width="760"/></p>
 
 <sub>Dados públicos, atualizados diariamente pelo GitHub Actions. A data da última atualização aparece no painel.</sub>
