@@ -49,7 +49,7 @@
     <rect x="0" y="18" width="3" height="56" rx="1.5" fill="#38bdf8"/>
     <circle cx="36" cy="34" r="17" fill="#38bdf8" fill-opacity="0.14"/>
     <g transform="translate(36 34)" fill="none" stroke="#38bdf8" stroke-width="1.6" stroke-linecap="round" color="#38bdf8"><rect x="-6" y="-7.5" width="12" height="15" rx="1.5"/><path d="M-3 -7.5v15M0 -3h3.5M0 0.5h3.5"/></g>
-    <text x="64" y="44" class="num">42</text>
+    <text x="64" y="44" class="num">43</text>
     <text x="20" y="76" class="label">Repositórios públicos</text>
   </g>
   <g class="tile" style="animation-delay:240ms" transform="translate(280.7 96)">
@@ -94,6 +94,6 @@
   </g>
 
   <line x1="28" y1="304" x2="772" y2="304" stroke="#ffffff" stroke-opacity="0.08"/>
-  <text x="28" y="328" class="foot">Atualizado em 15/11/2026 · via GitHub Actions</text>
+  <text x="28" y="328" class="foot">Atualizado em 16/11/2026 · via GitHub Actions</text>
   <text x="772" y="328" class="link" text-anchor="end">github.com/MURILOBRAZ →</text>
 </svg>
